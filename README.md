@@ -2,8 +2,11 @@
 Das ist ein Template eines Browsergame-Systemes, was ähnlich zu dem System von DB-BG und N-BG ist.
 Es verfügt über folgende Funktionen:
 - Login- und Registrierung System
+- Profil System
+- Userlisten System
 - Nachrichten System
 - Shop und Item System
+- Ausrüstungs System
 - Markt System
 - Turnier System
 - Herausforderungs System
