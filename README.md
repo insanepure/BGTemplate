@@ -1,4 +1,7 @@
 # BGTemplate
+
+!Falls du dieses System benutzt, so bist du dazu verpflichtet, zu dieser Github-Seite zu verlinken und mich als Urheber nach GNU General Public License v3.0 zu kennzeichnen!
+
 Das ist ein Template eines Browsergame-Systemes, was ähnlich zu dem System von DB-BG und N-BG ist.
 Es verfügt über folgende Funktionen:
 - Login- und Registrierung System
